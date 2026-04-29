@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-04-29T16:52:03.130277",
+  "weather": {
+    "temp": 64,
+    "feels_like": 63,
+    "description": "overcast clouds",
+    "humidity": 75,
+    "wind_speed": 17
+  },
+  "wake_time": "6:00 AM",
+  "adjustments": [
+    "Normal conditions \u2014 standard wake time"
+  ]
+}
